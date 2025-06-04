@@ -3,7 +3,29 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - QDSUITextSecondaryColor
+  - QDSUIIcon
+  - QDSUIToggleButton
+  - QDSUISecondaryButton
+  - QDSUIBorderlessButton
+  - QDSUIToggleBorderlessButton
+  - QDSUITooltip
+  - QDSUISharedThemeColor
+  - QDSUIToggleSwitch
+  - QDSUIAccentColor
+  - p1
+  - p2
+  - f1
+  - f2
+  - f3
+  - f4
+  - f5
+  - f6
+  - c1
+  - c2
+  - c3
+  - c4
   layers:
   - Default
   - TransparentFX

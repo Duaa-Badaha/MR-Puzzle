@@ -3,7 +3,17 @@ guid: 999f848fe6de13e4395a993a3a137735
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EDGES.001
+    second: {fileID: 2100000, guid: 62a6951e65e734541b8616b1485ba98d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STARRY_NIGHT
+    second: {fileID: 2100000, guid: 70d7630d5e0f8c8428089199f923e4c9, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
